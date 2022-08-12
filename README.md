@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImagineRetro
 - 👀 I’m interested in learning well
 - 🌱 I’m currently learning with CS50
--📫 How to reach me : mail at <adimandal005@gmail.com>
+- 📫 How to reach me : mail at <adimandal005@gmail.com>
 
 
 <!---
